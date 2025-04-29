@@ -42,10 +42,10 @@ The Certificate Generator System streamlines the creation of professional certif
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/your-username/certificate-generator.git
 cd certificate-generator
 pip install -r requirements.txt
+
 
 
 # File Structure 
@@ -58,6 +58,7 @@ certificate-generator/
 ├── cert_generator.py        # Core logic
 ├── web_app.py               # (Optional) Flask-based web interface
 └── README.md
+
 
 # 📈 Benefits
 
