@@ -42,32 +42,13 @@ The Certificate Generator System streamlines the creation of professional certif
 
 ## 📦 Installation
 
+```bash
 git clone https://github.com/your-username/certificate-generator.git
 cd certificate-generator
 pip install -r requirements.txt
 
 
 
-# File Structure 
-
-certificate-generator/
-│
-├── templates/               # Certificate template files (images or PDFs)
-├── input_data/              # CSV or manual input list
-├── output/                  # Generated certificates (PDFs)
-├── cert_generator.py        # Core logic
-├── web_app.py               # (Optional) Flask-based web interface
-└── README.md
-
-
-# 📈 Benefits
-
-🕒 Saves time by automating certificate creation
-🎯 Maintains consistent formatting and design
-📁 Handles small or large batches with ease
-🧑‍💻 Simple interface, no design skills needed
-✏️ Fully customizable placement and fonts
-🤝 Contributing
 
 
 
